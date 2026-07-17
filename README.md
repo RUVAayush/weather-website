@@ -1,5 +1,6 @@
 # weather-website
 https://medium.com/@rkb.aayush17112501/building-a-weather-app-using-html-css-javascript-and-a-live-weather-api-3bdbf6b1eaab
+vercel: https://weather-app-mu-sable-52.vercel.app/
 
 Building a Weather App Using HTML, CSS, JavaScript and a Live Weather API
 
