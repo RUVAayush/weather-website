@@ -1,5 +1,5 @@
 // Weather api key from openweathermaps.com
-const apiKey = "6555cdab12f038448e8778645559fb4d";
+const apiKey = "";
 // =========================================
 
 // --- Selectors ---
